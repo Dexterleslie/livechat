@@ -3,7 +3,7 @@
 	<groupId>com.dex.netty</groupId>
 	<artifactId>livechat</artifactId>
 	<packaging>jar</packaging>
-	<version>5.4-SNAPSHOT</version>
+	<version>5.5-SNAPSHOT</version>
 	<name>livechat</name>
 
 	  <scm>
