@@ -188,6 +188,11 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.15</version>
+				<configuration>
+					<excludes>
+						<exclude>com/dex/livechat/test/*.java</exclude>
+					</excludes>
+				</configuration>
 			</plugin>
 
 
