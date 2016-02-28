@@ -3,14 +3,14 @@
 	<groupId>com.dex.netty</groupId>
 	<artifactId>livechat</artifactId>
 	<packaging>jar</packaging>
-	<version>5.5-SNAPSHOT</version>
+	<version>5.5</version>
 	<name>livechat</name>
 
 	  <scm>
 		<connection>scm:git:git@github.com:Dexterleslie/livechat.git</connection>
 		<developerConnection>scm:git:git@github.com:Dexterleslie/livechat.git</developerConnection>
 		<url>https://github.com/Dexterleslie/livechat.git</url>
-		<tag>HEAD</tag>
+		<tag>livechat-5.5</tag>
 	</scm>
   
 	<distributionManagement>
